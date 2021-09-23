@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Neonbarflamed.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Neonbarflamed0000" x="0" y="0" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0001" x="1730" y="0" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0002" x="3460" y="0" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0003" x="5190" y="0" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0004" x="0" y="946" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0005" x="1730" y="946" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0006" x="3460" y="946" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0007" x="5190" y="946" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0008" x="0" y="1892" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0009" x="1730" y="1892" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0010" x="3460" y="1892" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0011" x="5190" y="1892" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0012" x="0" y="2838" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0013" x="1730" y="2838" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0014" x="3460" y="2838" width="1730" height="946"/>
+	<SubTexture name="Neonbarflamed0015" x="5190" y="2838" width="1730" height="946"/>
+</TextureAtlas>

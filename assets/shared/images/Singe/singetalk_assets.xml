@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="singetalk_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SingetalkA0000" x="0" y="0" width="400" height="400"/>
+	<SubTexture name="SingetalkB0000" x="400" y="0" width="400" height="400"/>
+	<SubTexture name="SingetalkC0000" x="800" y="0" width="400" height="400"/>
+	<SubTexture name="SingetalkD0000" x="1200" y="0" width="400" height="400"/>
+	<SubTexture name="SingetalkE0000" x="1600" y="0" width="400" height="400"/>
+	<SubTexture name="SingetalkF0000" x="2000" y="0" width="400" height="400"/>
+	<SubTexture name="SingetalkG0000" x="2400" y="0" width="400" height="400"/>
+	<SubTexture name="SingetalkH0000" x="0" y="400" width="400" height="400"/>
+	<SubTexture name="SingetalkI0000" x="400" y="400" width="400" height="400"/>
+	<SubTexture name="SingetalkJ0000" x="800" y="400" width="400" height="400"/>
+	<SubTexture name="SingetalkK0000" x="1200" y="400" width="400" height="400"/>
+	<SubTexture name="SingetalkL0000" x="1600" y="400" width="400" height="400"/>
+	<SubTexture name="SingetalkM0000" x="2000" y="400" width="400" height="400"/>
+	<SubTexture name="Searjar0000" x="2400" y="400" width="400" height="400"/>
+</TextureAtlas>

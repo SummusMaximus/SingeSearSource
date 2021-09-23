@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bftalk_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BftalkA0000" x="0" y="0" width="400" height="400"/>
+	<SubTexture name="BftalkB0000" x="400" y="0" width="400" height="400"/>
+	<SubTexture name="BftalkC0000" x="800" y="0" width="400" height="400"/>
+</TextureAtlas>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="singe_assets_wf.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SingeIdle0000" x="0" y="0" width="500" height="775"/>
+	<SubTexture name="SingeIdle0001" x="500" y="0" width="500" height="775"/>
+	<SubTexture name="SingeIdle0002" x="1000" y="0" width="500" height="775"/>
+	<SubTexture name="SingeIdle0003" x="1500" y="0" width="500" height="775"/>
+	<SubTexture name="SingeIdle0004" x="2000" y="0" width="500" height="775"/>
+	<SubTexture name="SingeIdle0005" x="2500" y="0" width="500" height="775"/>
+	<SubTexture name="SingeIdle0006" x="3000" y="0" width="500" height="775"/>
+	<SubTexture name="SingeCalm0000" x="0" y="775" width="500" height="775"/>
+	<SubTexture name="SingeCalm0001" x="500" y="775" width="500" height="775"/>
+	<SubTexture name="SingeCalm0002" x="1000" y="775" width="500" height="775"/>
+	<SubTexture name="SingeCalm0003" x="1500" y="775" width="500" height="775"/>
+	<SubTexture name="SingeCalm0004" x="2000" y="775" width="500" height="775"/>
+	<SubTexture name="SingeCalm0005" x="2500" y="775" width="500" height="775"/>
+	<SubTexture name="SingeCalm0006" x="3000" y="775" width="500" height="775"/>
+	<SubTexture name="SingeDown0000" x="0" y="1550" width="500" height="775"/>
+	<SubTexture name="SingeDown0001" x="500" y="1550" width="500" height="775"/>
+	<SubTexture name="SingeDown0002" x="1000" y="1550" width="500" height="775"/>
+	<SubTexture name="SingeDown0003" x="1500" y="1550" width="500" height="775"/>
+	<SubTexture name="SingeDown0004" x="2000" y="1550" width="500" height="775"/>
+	<SubTexture name="SingeDown0005" x="2500" y="1550" width="500" height="775"/>
+	<SubTexture name="SingeDown0006" x="3000" y="1550" width="500" height="775"/>
+	<SubTexture name="SingeUp0000" x="0" y="2325" width="500" height="775"/>
+	<SubTexture name="SingeUp0001" x="500" y="2325" width="500" height="775"/>
+	<SubTexture name="SingeUp0002" x="1000" y="2325" width="500" height="775"/>
+	<SubTexture name="SingeUp0003" x="1500" y="2325" width="500" height="775"/>
+	<SubTexture name="SingeUp0004" x="2000" y="2325" width="500" height="775"/>
+	<SubTexture name="SingeUp0005" x="2500" y="2325" width="500" height="775"/>
+	<SubTexture name="SingeUp0006" x="3000" y="2325" width="500" height="775"/>
+	<SubTexture name="SingeRight0000" x="0" y="3100" width="500" height="775"/>
+	<SubTexture name="SingeRight0001" x="500" y="3100" width="500" height="775"/>
+	<SubTexture name="SingeRight0002" x="1000" y="3100" width="500" height="775"/>
+	<SubTexture name="SingeRight0003" x="1500" y="3100" width="500" height="775"/>
+	<SubTexture name="SingeRight0004" x="2000" y="3100" width="500" height="775"/>
+	<SubTexture name="SingeRight0005" x="2500" y="3100" width="500" height="775"/>
+	<SubTexture name="SingeRight0006" x="3000" y="3100" width="500" height="775"/>
+	<SubTexture name="SingeLeft0000" x="0" y="3875" width="500" height="775"/>
+	<SubTexture name="SingeLeft0001" x="500" y="3875" width="500" height="775"/>
+	<SubTexture name="SingeLeft0002" x="1000" y="3875" width="500" height="775"/>
+	<SubTexture name="SingeLeft0003" x="1500" y="3875" width="500" height="775"/>
+	<SubTexture name="SingeLeft0004" x="2000" y="3875" width="500" height="775"/>
+	<SubTexture name="SingeLeft0005" x="2500" y="3875" width="500" height="775"/>
+	<SubTexture name="SingeLeft0006" x="3000" y="3875" width="500" height="775"/>
+	<SubTexture name="SingeLeft0007" x="3500" y="3875" width="500" height="775"/>
+	<SubTexture name="SingeLeft0008" x="4000" y="3875" width="500" height="775"/>
+</TextureAtlas>

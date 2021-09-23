@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seartalk_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SeartalkA0000" x="0" y="0" width="575" height="550"/>
+	<SubTexture name="SeartalkB0000" x="575" y="0" width="575" height="550"/>
+	<SubTexture name="SeartalkC0000" x="0" y="550" width="850" height="625"/>
+</TextureAtlas>
